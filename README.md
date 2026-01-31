@@ -7,6 +7,7 @@ Mechatronics engineering student, focusing on programming and software developme
 ## Ongoing Projects
 
 ### [Dollar exchange rate analysis software](https://github.com/alejojimenezz/Dollar-Exchange-Rate)
+### [VSCode extension for quick reminder pop-ups](https://github.com/alejojimenezz/Reminder-POP-UP)
 ### [Mini-Projects](https://github.com/alejojimenezz/MiniProjects)
 ### [GitHub io web-page](https://github.com/alejojimenezz/alejojimenezz.github.io)
 
