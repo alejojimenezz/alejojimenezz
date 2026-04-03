@@ -6,14 +6,15 @@ Mechatronics engineering student, focusing on programming and software developme
 
 ## Ongoing Projects
 
-### [Dollar exchange rate analysis software](https://github.com/alejojimenezz/Dollar-Exchange-Rate)
-### [VSCode extension for quick reminder pop-ups](https://github.com/alejojimenezz/Reminder-POP-UP)
+### [QRioso - QR code generator](https://github.com/alejojimenezz/QRioso)
+### [Reminder POP-UPs - VSCode extension](https://github.com/alejojimenezz/Reminder-POP-UP)
 ### [Mini-Projects](https://github.com/alejojimenezz/MiniProjects)
+### [Dollar exchange rate analysis software](https://github.com/alejojimenezz/Dollar-Exchange-Rate)
 ### [GitHub io web-page](https://github.com/alejojimenezz/alejojimenezz.github.io)
 
 ## Contact Me
 
-### [LinkedIn](www.linkedin.com/in/alejandro-jiménez-242194271)
+### [LinkedIn](https://www.linkedin.com/in/alejandro-jim%C3%A9nez-242194271/)
 ### GMail - alejandro.jz1312@gmail.com
 
 <!--
