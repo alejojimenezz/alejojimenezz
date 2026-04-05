@@ -12,6 +12,10 @@ Mechatronics engineering student, focusing on programming and software developme
 ### [Dollar exchange rate analysis software](https://github.com/alejojimenezz/Dollar-Exchange-Rate)
 ### [GitHub io web-page](https://github.com/alejojimenezz/alejojimenezz.github.io)
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alejojimenezz&hide=makefile,html" />
+</p>
+
 ## Contact Me
 
 ### [LinkedIn](https://www.linkedin.com/in/alejandro-jim%C3%A9nez-242194271/)
