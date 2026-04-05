@@ -13,7 +13,7 @@ Mechatronics engineering student, focusing on programming and software developme
 ### [GitHub io web-page](https://github.com/alejojimenezz/alejojimenezz.github.io)
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alejojimenezz&hide=makefile,html" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alejojimenezz&hide=makefile,html&layout=compact" />
 </p>
 
 ## Contact Me
